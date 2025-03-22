@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.profiles.osx": {
+        "Prolog": {
+            "path": "/usr/local/bin/swipl",
+            "args": [] 
+        }
+    },
+    "files.associations": {
+        "*.pl": "Prolog"
+    }
+}
